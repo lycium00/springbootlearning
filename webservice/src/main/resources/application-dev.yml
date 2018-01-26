@@ -1,0 +1,24 @@
+server:
+  port: 8080
+
+config:
+  configtest: test11111
+
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:marriadb://127.0.0.1:3306/girl
+    username: root
+    password: zte123
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+
+
+debug: true
+logging:
+  level.learning.webservice: debug
+  path: webservice

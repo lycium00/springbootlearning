@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":webservice" external.linked.project.path="$MODULE_DIR$/../../../webservice" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="learning" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/../../../webservice/src/main/resources/application.yml</file>
+          <file>file://$MODULE_DIR$/../../../webservice/src/main/resources/application_dev.yml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../webservice">
+      <excludeFolder url="file://$MODULE_DIR$/../../../webservice/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../webservice/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../webservice/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

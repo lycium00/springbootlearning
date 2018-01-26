@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springbootlearning.iml" filepath="$PROJECT_DIR$/springbootlearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webservice/webservice.iml" filepath="$PROJECT_DIR$/.idea/modules/webservice/webservice.iml" group="webservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webservice/webservice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/webservice/webservice_main.iml" group="webservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webservice/webservice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/webservice/webservice_test.iml" group="webservice" />
+      <module fileurl="file://$PROJECT_DIR$/yarnclient/yarnclient.iml" filepath="$PROJECT_DIR$/yarnclient/yarnclient.iml" group="yarnclient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yarnclient_main.iml" filepath="$PROJECT_DIR$/.idea/modules/yarnclient_main.iml" group="yarnclient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yarnclient_test.iml" filepath="$PROJECT_DIR$/.idea/modules/yarnclient_test.iml" group="yarnclient" />
+    </modules>
+  </component>
+</project>
